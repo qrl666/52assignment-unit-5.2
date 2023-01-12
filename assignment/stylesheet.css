@@ -1,13 +1,15 @@
-header{
+.header1{
 background-color: rgb(24, 63, 97);
 color: rgb(253, 177, 152);
 text-align: center;
 }
 
-main{
+.main1{
     background-color: rgb(187, 192, 192);
+    padding: 1em;
 }
 
 body{
     background-image: url(record.png);
+    margin: 0;
 }
